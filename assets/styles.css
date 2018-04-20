@@ -1,0 +1,32 @@
+body{
+    background-image: url(./islandwaterfall.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.begin{
+    background-image: url(programmingMan.jpg); 
+}
+.bg-color{
+    background-color: rgb(133, 106, 98);
+    color: white;
+}
+
+.schneiderwebdev{
+    border-top: 2px green;
+    text-align: center;
+    color: rgb(59, 59, 59);
+}
+h1.center{
+    text-align: center;
+    color: white;
+}
+h1.text{
+    text-emphasis: outline;: 2px 2px #0c0c0c;
+}
+p.smallwhite{
+    color: white;
+}
+.left{
+    display: flex;
+    flex-direction: row-reverse;
+}
