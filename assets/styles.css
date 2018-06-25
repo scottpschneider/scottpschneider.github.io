@@ -7,7 +7,7 @@ body{
     background-image: url(programmingMan.jpg); 
 }
 .bg-color{
-    background-color: rgb(133, 106, 98);
+    text-shadow: 2px 2px teal;
     color: white;
 }
 
@@ -20,13 +20,11 @@ h1.center{
     text-align: center;
     color: white;
 }
-h1.text{
-    text-emphasis: outline;: 2px 2px #0c0c0c;
-}
+
 p.smallwhite{
     color: white;
 }
 .left{
     display: flex;
-    flex-direction: row-reverse;
+    flex-direction: row-reverse
 }
