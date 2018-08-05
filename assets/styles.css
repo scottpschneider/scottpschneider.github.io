@@ -4,6 +4,7 @@
     position: fixed;
     top: 0;
     width: 100%;
+    height: 20px;
 }
 
 .navbar a {
@@ -21,7 +22,7 @@ text-decoration: none;
 }
 
 .main {
-    margin-top: .5px;
+    margin-top: 150px;
 }
 
 body{
@@ -38,7 +39,7 @@ body{
 }
 
 .schneiderwebdev{
-    border-top: 2px green;
+    border-top: 200px green;
     text-align: center;
     color: rgb(59, 59, 59);
 }
