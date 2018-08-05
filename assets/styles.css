@@ -50,6 +50,7 @@ body{
     background-image: url("./adventure-climb-clouds-371400.jpg");
     background-repeat: no-repeat;
     background-size: cover; 
+    padding-top: 70px;
 }
 .begin{
     background-image: url(programmingMan.jpg); 
