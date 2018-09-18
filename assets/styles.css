@@ -34,12 +34,10 @@ body{
     background-size: cover; 
     padding-top: 0px;
 }
-.begin{
-    background-image: url(programmingMan.jpg); 
-}
+
 .bg-color{
     text-shadow: 2px 2px teal;
-    color: white;
+    color: rgb(57, 57, 58);
 }
 
 .schneiderwebdev{
@@ -52,9 +50,6 @@ h1.center{
     color: white;
 }
 
-p.smallwhite{
-    color: white;
-}
 .left{
     display: flex;
     flex-direction: row-reverse
