@@ -5,16 +5,6 @@
     top: 50;
     width: 100%;
 }
-
-.footer a {
-    float: center;
-    display: block;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    }
-    
     .footer a:hover {
         background: #ddd;
         color: black;
@@ -28,14 +18,6 @@
     width: 100%;
 }
 
-.navbar a {
-float: center;
-display: block;
-color: #f2f2f2;
-text-align: center;
-padding: 7px 8px;
-text-decoration: none;
-}
 
 .navbar a:hover {
     background: #ddd;
@@ -43,14 +25,14 @@ text-decoration: none;
 }
 
 .main {
-    margin-top: 150px;
+    margin-top: 0px;
 }
 
 body{
     background-color: bisque;
     background-repeat: no-repeat;
     background-size: cover; 
-    padding-top: 70px;
+    padding-top: 0px;
 }
 .begin{
     background-image: url(programmingMan.jpg); 
