@@ -2,7 +2,7 @@
     overflow: hidden;
     background-color: #333;
     position: fixed;
-    top: 50;
+    top: 0;
     width: 100%;
 }
     .footer a:hover {
@@ -26,17 +26,18 @@
 
 .main {
     margin-top: 0px;
-}
+    }
 
 body{
     background-color: bisque;
     background-repeat: no-repeat;
     background-size: cover; 
     padding-top: 0px;
+    border-bottom: black;
 }
 
 .bg-color{
-    text-shadow: 2px 2px teal;
+    text-shadow: 1px 1px teal;
     color: rgb(57, 57, 58);
 }
 
@@ -49,8 +50,8 @@ h1.center{
     text-align: center;
     color: white;
 }
-
-.left{
-    display: flex;
-    flex-direction: row-reverse
+.text{
+    text-align: center;
+    text-emphasis-color: black;
+    font: 1em sans-serif;
 }
